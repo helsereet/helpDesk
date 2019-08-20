@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Kevil\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kevil\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_UsersSupport.122833444.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Kevil\Desktop\Диплом\App" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="UsersSupport" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="DataAccess.cs" t="Include" />
+          <e p="Department.cs" t="Include" />
+          <e p="Employee.cs" t="Include" />
+          <e p="PerformerStatistics.cs" t="Include" />
+          <e p="Position.cs" t="Include" />
+          <e p="Request.cs" t="Include" />
+          <e p="RequestSetting.cs" t="Include" />
+          <e p="RequestTheme.cs" t="Include" />
+          <e p="RequestType.cs" t="Include" />
+          <e p="RequestTypeRequestTheme.cs" t="Include" />
+          <e p="Role.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="DataHelper.cs" t="Include" />
+        <e p="FormHelper.cs" t="Include" />
+        <e p="Forms" t="Include">
+          <e p="AdminForms" t="Include">
+            <e p="DepartmentHelperForms" t="Include">
+              <e p="AddDepartmentForm.cs" t="Include" />
+              <e p="EditDepartmentForm.cs" t="Include" />
+              <e p="SharedDepartmentForm.cs" t="Include" />
+            </e>
+            <e p="EmployeeHelperForms" t="Include">
+              <e p="AddEmployeeForm.cs" t="Include" />
+              <e p="EditEmployeeForm.cs" t="Include" />
+              <e p="SharedEmployeeForm.cs" t="Include" />
+              <e p="SharedEmployeeForm.Designer.cs" t="Include" />
+              <e p="SharedEmployeeForm.resx" t="Include" />
+            </e>
+            <e p="GeneralForms" t="Include">
+              <e p="SharedDashboardForm.cs" t="Include" />
+              <e p="SharedDashboardForm.Designer.cs" t="Include" />
+              <e p="SharedDashboardForm.resx" t="Include" />
+            </e>
+            <e p="PositionHelperForms" t="Include">
+              <e p="AddPositionForm.cs" t="Include" />
+              <e p="EditPositionForm.cs" t="Include" />
+              <e p="SharedPositionForm.cs" t="Include" />
+            </e>
+            <e p="RequestSettingHelperForms" t="Include">
+              <e p="AddRequestSettingForm.cs" t="Include" />
+              <e p="EditRequestSettigForm.cs" t="Include" />
+              <e p="SharedRequestSettingForm.cs" t="Include" />
+              <e p="SharedRequestSettingForm.Designer.cs" t="Include" />
+              <e p="SharedRequestSettingForm.resx" t="Include" />
+            </e>
+            <e p="RequestThemeHelperForms" t="Include">
+              <e p="AddRequestThemeForm.cs" t="Include" />
+              <e p="EditRequestThemeForm.cs" t="Include" />
+              <e p="SharedRequestThemeForm.cs" t="Include" />
+            </e>
+            <e p="RequestTypeHelperForms" t="Include">
+              <e p="AddRequestTypeForm.cs" t="Include" />
+              <e p="EditRequestTypeForm.cs" t="Include" />
+              <e p="SharedRequestTypeForm.cs" t="Include" />
+            </e>
+          </e>
+          <e p="CustomerForms" t="Include">
+            <e p="CreateRequestForm.cs" t="Include" />
+            <e p="CreateRequestForm.Designer.cs" t="Include" />
+            <e p="CreateRequestForm.resx" t="Include" />
+            <e p="CustomerInfoRequestForm.cs" t="Include" />
+            <e p="CustomerInfoRequestForm.resx" t="Include" />
+          </e>
+          <e p="GeneralForms" t="Include">
+            <e p="AboutForm.cs" t="Include" />
+            <e p="AboutForm.Designer.cs" t="Include" />
+            <e p="AboutForm.resx" t="Include" />
+            <e p="AuthorizationForm.cs" t="Include" />
+            <e p="AuthorizationForm.designer.cs" t="Include" />
+            <e p="AuthorizationForm.resx" t="Include" />
+            <e p="ChangePassForm.cs" t="Include" />
+            <e p="ChangePassForm.designer.cs" t="Include" />
+            <e p="ChangePassForm.resx" t="Include" />
+            <e p="MainForm.cs" t="Include" />
+            <e p="MainForm.Designer.cs" t="Include" />
+            <e p="MainForm.resx" t="Include" />
+            <e p="RequestForm.cs" t="Include" />
+            <e p="RequestForm.Designer.cs" t="Include" />
+            <e p="RequestForm.resx" t="Include" />
+            <e p="RoleForm.cs" t="Include" />
+            <e p="RoleForm.Designer.cs" t="Include" />
+            <e p="RoleForm.resx" t="Include" />
+          </e>
+          <e p="PerformerForms" t="Include">
+            <e p="PerformerInfoRequestForm.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Helper.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="service-desk-aranda-software1-nqpmkea6ypo02pa1e2q8t90aw68cmc59mvhlh5qywo.png" t="Include" />
+        </e>
+        <e p="Roundicons-100-Free-Solid-Customer-service.ico" t="Include" />
+        <e p="UsersSupport.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="UsersSupport.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

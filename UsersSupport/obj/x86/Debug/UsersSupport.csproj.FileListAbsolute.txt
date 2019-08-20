@@ -1,0 +1,127 @@
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csprojResolveAssemblyReference.cache
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Form1.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormChangeParol.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.LoginForm.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Properties.Resources.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csproj.GenerateResource.Cache
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\bin\Debug\UsersSupport.exe
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\bin\Debug\UsersSupport.pdb
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.fsotrudnik.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.exe
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.pdb
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormZayavka.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormCase.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormTema.resources
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.exe
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.pdb
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\bin\Debug\UsersSupport.exe
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\bin\Debug\UsersSupport.pdb
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csprojResolveAssemblyReference.cache
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Form1.resources
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormCase.resources
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormChangeParol.resources
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormTema.resources
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormZayavka.resources
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.fsotrudnik.resources
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.LoginForm.resources
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Properties.Resources.resources
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csproj.GenerateResource.Cache
+h:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormAbout.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormAbout.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.FormSpr.resources
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\UsersSupport.exe.config
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\UsersSupport.exe
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\UsersSupport.pdb
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\Dapper.dll
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\MaterialSkin.dll
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\Dapper.xml
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csprojAssemblyReference.cache
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.EmployeeHelperForms.SharedEmployeeForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.RequestSettingHelperForms.SharedRequestSettingForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.CustomerForms.CreateRequestForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.MainForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.AboutForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.RoleForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.ChangePassForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.GeneralForms.SharedDashboardForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.RequestForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.AuthorizationForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Properties.Resources.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.Template.RequestForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csproj.GenerateResource.cache
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csproj.CoreCompileInputs.cache
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csproj.CopyComplete
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.exe
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.pdb
+F:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\UsersSupport.exe.config
+F:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\UsersSupport.exe
+F:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\UsersSupport.pdb
+F:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\Dapper.dll
+F:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\MaterialSkin.dll
+F:\CurrentProject\UsersSupport\UsersSupport\bin\Debug\Dapper.xml
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.EmployeeHelperForms.SharedEmployeeForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.RequestSettingHelperForms.SharedRequestSettingForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.CustomerForms.CreateRequestForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.CustomerForms.CustomerInfoRequestForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.MainForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.AboutForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.RoleForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.ChangePassForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.GeneralForms.SharedDashboardForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.RequestForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.AuthorizationForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Properties.Resources.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.Forms.Template.RequestForm.resources
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csproj.GenerateResource.cache
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csproj.CoreCompileInputs.cache
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csproj.CopyComplete
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.exe
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.pdb
+F:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Debug\UsersSupport.csprojAssemblyReference.cache
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\bin\Debug\UsersSupport.exe.config
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\bin\Debug\UsersSupport.exe
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\bin\Debug\UsersSupport.pdb
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\bin\Debug\Dapper.dll
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\bin\Debug\MaterialSkin.dll
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\bin\Debug\Dapper.xml
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.csprojAssemblyReference.cache
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.EmployeeHelperForms.SharedEmployeeForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.RequestSettingHelperForms.SharedRequestSettingForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.CustomerForms.CreateRequestForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.CustomerForms.CustomerInfoRequestForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.MainForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.AboutForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.RoleForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.ChangePassForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.GeneralForms.SharedDashboardForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.RequestForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.AuthorizationForm.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.Properties.Resources.resources
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.csproj.GenerateResource.cache
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.csproj.CoreCompileInputs.cache
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.csproj.CopyComplete
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.exe
+F:\CurrentProject\UsersSupport - Copy\UsersSupport\obj\x86\Debug\UsersSupport.pdb
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\bin\Debug\UsersSupport.exe.config
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\bin\Debug\UsersSupport.exe
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\bin\Debug\UsersSupport.pdb
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\bin\Debug\Dapper.dll
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\bin\Debug\Dapper.xml
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.csprojAssemblyReference.cache
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.EmployeeHelperForms.SharedEmployeeForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.RequestSettingHelperForms.SharedRequestSettingForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.CustomerForms.CreateRequestForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.CustomerForms.CustomerInfoRequestForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.MainForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.AboutForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.RoleForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.ChangePassForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.AdminForms.GeneralForms.SharedDashboardForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.RequestForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Forms.GeneralForms.AuthorizationForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.Properties.Resources.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.csproj.GenerateResource.cache
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.csproj.CoreCompileInputs.cache
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.csproj.CopyComplete
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.exe
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x86\Debug\UsersSupport.pdb

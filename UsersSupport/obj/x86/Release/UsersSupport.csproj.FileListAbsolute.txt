@@ -1,0 +1,53 @@
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\bin\Release\UsersSupport.exe
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\bin\Release\UsersSupport.pdb
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.Form1.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormAbout.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormCase.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormChangeParol.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormSpr.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormTema.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormZayavka.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.fsotrudnik.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.LoginForm.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.Properties.Resources.resources
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.csproj.GenerateResource.Cache
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.exe
+d:\1_ko\autor24\20190228_C#_MS SQL ТехПоддержкаАдминистрирование\1_itog\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.pdb
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\bin\Release\UsersSupport.exe
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\bin\Release\UsersSupport.pdb
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.csprojAssemblyReference.cache
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.Form1.resources
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormAbout.resources
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormCase.resources
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormChangeParol.resources
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormSpr.resources
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormTema.resources
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormZayavka.resources
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.fsotrudnik.resources
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.LoginForm.resources
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.Properties.Resources.resources
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.csproj.GenerateResource.cache
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.csproj.CoreCompileInputs.cache
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.exe
+C:\Users\Kevil\Desktop\Курсовой правки\ITOG\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.pdb
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Release\UsersSupport.exe
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Release\UsersSupport.pdb
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.csprojAssemblyReference.cache
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.FormSpr.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.Properties.Resources.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.csproj.GenerateResource.cache
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.csproj.CoreCompileInputs.cache
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.exe
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.pdb
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.MainForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.AboutForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.RoleForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.ChangePassForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.ThemeForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.CreateRequestForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.EmployeeForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.AuthorizationForm.resources
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Release\UsersSupport.exe.config
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Release\Dapper.dll
+E:\CurrentProject\UsersSupport\UsersSupport\bin\Release\Dapper.xml
+E:\CurrentProject\UsersSupport\UsersSupport\obj\x86\Release\UsersSupport.csproj.CopyComplete

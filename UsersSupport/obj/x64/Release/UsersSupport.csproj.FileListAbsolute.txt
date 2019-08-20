@@ -1,0 +1,41 @@
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\bin\x64\Release\UsersSupport.exe.config
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\bin\x64\Release\UsersSupport.exe
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\bin\x64\Release\Dapper.dll
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\bin\x64\Release\Dapper.xml
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.AdminForms.EmployeeHelperForms.SharedEmployeeForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.AdminForms.RequestSettingHelperForms.SharedRequestSettingForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.CustomerForms.CreateRequestForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.CustomerForms.CustomerInfoRequestForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.MainForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.AboutForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.RoleForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.ChangePassForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.AdminForms.GeneralForms.SharedDashboardForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.RequestForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.AuthorizationForm.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.Properties.Resources.resources
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.csproj.GenerateResource.cache
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.csproj.CoreCompileInputs.cache
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.csproj.CopyComplete
+F:\CurrentProject\UsersSupport - Copy - Copy\UsersSupport\obj\x64\Release\UsersSupport.exe
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\bin\x64\Release\UsersSupport.exe.config
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\bin\x64\Release\UsersSupport.exe
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\bin\x64\Release\Dapper.dll
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\bin\x64\Release\Dapper.xml
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.AdminForms.EmployeeHelperForms.SharedEmployeeForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.AdminForms.RequestSettingHelperForms.SharedRequestSettingForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.CustomerForms.CreateRequestForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.CustomerForms.CustomerInfoRequestForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.MainForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.AboutForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.RoleForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.ChangePassForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.AdminForms.GeneralForms.SharedDashboardForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.RequestForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Forms.GeneralForms.AuthorizationForm.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.Properties.Resources.resources
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.csproj.GenerateResource.cache
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.csproj.CoreCompileInputs.cache
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.csproj.CopyComplete
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.exe
+C:\Users\Kevil\Desktop\Диплом\App\UsersSupport\obj\x64\Release\UsersSupport.csprojAssemblyReference.cache
